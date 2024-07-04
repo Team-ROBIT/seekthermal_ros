@@ -25,7 +25,7 @@ sudo make install
 #### libseekthermal
 ```
 git clone https://github.com/RO-BIT-Intelligence-Robot-Team/libseekthermal.git
-cd remake
+cd libseekthermal
 mkdir build
 cd build 
 cmake ..
